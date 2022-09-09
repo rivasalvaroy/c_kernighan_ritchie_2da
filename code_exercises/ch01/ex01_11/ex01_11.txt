@@ -1,0 +1,9 @@
+Ejercicio 1-11. ¿Cómo probaría el programa para contar palabras? ¿Qué clase
+de entrada es la más conveniente para descubrir errores si éstos existen?
+
+- sin entradas -> salida 0 0 0
+- sin palabras -> solo nuevas lineas
+- sin palabras -> solo espacios en blanco, tabulación y nuevas lineas
+- una palabra por linea -> no espacios en blanco ni tabulación
+- palabra al inicio de la linea
+- palabra despues de espacios en blanco
